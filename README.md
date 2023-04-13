@@ -1,6 +1,9 @@
 # s
 A tiny vi like screen editor
 
+changes make it compile on 2023-macos --kyounger
+
+
 Original sources were published in this book:
 
 
